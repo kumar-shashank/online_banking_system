@@ -1,0 +1,15 @@
+{
+
+    "version": "2.0.0",
+
+    "command": "chrome",
+
+    "windows": {
+
+        "command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+
+    },
+    
+"args": ["localhost\\${workspaceRootFolderName}\\${fileBasename}"]
+
+}
