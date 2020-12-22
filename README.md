@@ -41,8 +41,8 @@ Username of the customers is their "shashankkumar269@gmail.com" & password is "s
 Username of the staff is their "sk@gmail.com" & password is "88099".
 Some useful links to help in proper setup :
 
-# Installing LAMP
-WampServer
+# Installing XAMPP
+Xamp Server 3.4
 Importing database in MySQL
 Details about the project
 An exhaustive list of features, documentation, design hierarchy, details about the web pages, database, design characterstics/features and a lot more can be found here.
