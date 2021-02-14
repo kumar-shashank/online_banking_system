@@ -5,7 +5,6 @@ Online banking system in PHP &amp; MySQL
 
 This project should not be modified in any way and used anywhere else without my permission.
 
-If you use this project for phishing purposes after modifying the source code / or by any other means, remember that the original project has nothing to do with phishing or any other malicious purpose. Any loss of data or unauthorized access which happened because of such phishing kits would not be my responsibility as that is not my original code. Strict legal action would be taken if someone is found modifying it and using it for any unethical purpose.
 
 # Online Banking System
 A web based banking system with all essential features and security accompanied by a beautiful and simple website. The website is designed in accordance with google material design and resposive web design guidelines to ensure a seamless experience between devices.
@@ -17,7 +16,7 @@ HTML5, CSS, JavaScript & jQuery used for front-end design.
 
 PHP7 & MySQL used for back-end design.
 
-Oracle MySQL has been used to create and host the database for the internet banking website.
+MySQL has been used to create and host the database for the internet banking website.
 
 Other than the languages/tools mentioned above no other/external libraries and/or web-page templates have been used, everything has been coded from ground-up straight from scratch.
 
@@ -52,4 +51,4 @@ The ER Diagram can also be found on the link given above or can be viewed here.
 # Description of the various folders
 /online_Banking_system : Contains the source code of the website
 /online_Banking_system/images : Contains various images and icon vectors used as resources in the website
-/online_Banking_system/css : Contains various fonts(.ttf files) used in the website
+/online_Banking_system/css : Contains various fonts(.css files) used in the website
